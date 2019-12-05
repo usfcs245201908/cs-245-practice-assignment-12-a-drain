@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Practice12Test",
+      "request": "launch",
+      "mainClass": "Practice12Test",
+      "projectName": "hash-tables_5aace659"
+    }
+  ]
+}
